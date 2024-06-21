@@ -1,6 +1,7 @@
 ## Галанин Павел
 
 - Проживание: Минск
+- Сайт: https://de-pa.by (портфолио)
 - GitHub: https://github.com/pavelhalanin
 - Skype: pavelhalanin@outlook.com
 - LinkedIn: https://www.linkedin.com/in/pavel-halanin-444568315
