@@ -3,6 +3,7 @@
 - Проживание: Минск
 - GitHub: https://github.com/pavelhalanin
 - Skype: pavelhalanin@outlook.com
+- LinkedIn: https://www.linkedin.com/in/pavel-halanin-444568315
 
 ## Опыт работы
 
