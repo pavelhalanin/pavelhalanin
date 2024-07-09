@@ -1,7 +1,7 @@
 ## Галанин Павел
 
 - Проживание: Минск
-- Рожной город: Брест
+- Родной город: Брест
 - Сайт: https://de-pa.by (портфолио)
 - GitHub: https://github.com/pavelhalanin
 - Skype: pavelhalanin@outlook.com
