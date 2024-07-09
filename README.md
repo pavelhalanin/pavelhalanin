@@ -1,6 +1,7 @@
 ## Галанин Павел
 
 - Проживание: Минск
+- Рожной город: Брест
 - Сайт: https://de-pa.by (портфолио)
 - GitHub: https://github.com/pavelhalanin
 - Skype: pavelhalanin@outlook.com
@@ -9,7 +10,7 @@
 ## Опыт работы
 
 <table>
-  <caption>Таблица - Опыт работы (1 год)</caption>
+  <caption>Таблица - Проффесиональный стаж (инженер-программист)</caption>
   <tbody>
     <tr>
       <td><p>Июнь 2024</p>
@@ -228,4 +229,4 @@ Docker, docker-compose, Google Cloud App Engine, Google Cloud Compute Engine, Go
 
 ---
 
-Pavel Halanin © 2024 (Последнее редактирование 2024.06.21 23:40)
+Pavel Halanin © 2024 (Последнее редактирование 2024.07.09 22:00)
