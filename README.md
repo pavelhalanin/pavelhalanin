@@ -256,18 +256,18 @@ English:
 
 2023 (Телеграм бот для определения верхней или нижней недели на GoogleAppsScript)
 на языке программирования TypeScript
--Демонстрация: https://t.me/St190333_WhatWeekBot
--Исходный код: https://github.com/pavelhalanin/2023_GoogleAppsScript_TelegramBot_WhatWeek
+- Демонстрация: https://t.me/St190333_WhatWeekBot
+- Исходный код: https://github.com/pavelhalanin/2023_GoogleAppsScript_TelegramBot_WhatWeek
 
 2022 (Автоматический календарь верхних и нижних недель на ReactJS)
 на библиотеке ReactJS, на языке программирования TypeScript
--Демонстрация: https://pavelhalanin.github.io/2022-what-week-site
--Исходный код: https://github.com/pavelhalanin/2022-what-week-site
+- Демонстрация: https://pavelhalanin.github.io/2022-what-week-site
+- Исходный код: https://github.com/pavelhalanin/2022-what-week-site
 
 2018 (Верстка сайта из макета Photoshop на HTML и CSS)
 в виде статическом шаблонизаторе Jekyll, на HTML, SASS
--Демонстрация: https://pavelhalanin.github.io/2018-Epam-ItSharkPro-HtmlCssHomework
--Исходный код: https://github.com/pavelhalanin/2018-Epam-ItSharkPro-HtmlCssHomework
+- Демонстрация: https://pavelhalanin.github.io/2018-Epam-ItSharkPro-HtmlCssHomework
+- Исходный код: https://github.com/pavelhalanin/2018-Epam-ItSharkPro-HtmlCssHomework
 
 ---
 
