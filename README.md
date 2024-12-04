@@ -137,6 +137,7 @@ API:
 - напишу REST API на NestJS на TypeScript и добавлю документацию SwaggerUI, через аннотации
 - напишу документацию SwaggerUI, через конфиг JSON или YAML
 - разберусь в чужой документации API. Github API, VK API, ViberAPI, TelegramAPI, Seller Ozon API
+- проверю запрос через Postman, ThunderClient
 
 Контейнеризация:
 - напишу docker-compose, в котором буду использовать контейнеры с DockerHub
@@ -167,6 +168,7 @@ HTML/CSS:
 - сожму CSS используя сборщики Gulp, Webpack, React
 - подключу шрифты
 - подключу иконки FontAwesome, Bootstrap Icons, Material Icons, Material Symbols
+- напишу стили с использованием припроцессоров Stylus, SASS/SCSS
 
 JavaScript:
 - разберусь в вашем PHP коде и добавлю чистый JavaScript в ваш проект
@@ -186,6 +188,7 @@ JavaScript:
 - настрою линтер ESlint 
 - настрою Prettier для выравнивание кода 
 - напишу формирование Excel файла с определенными стилями
+- напишу unit тесты
 
 PHP:
 - настрою Apache через httpd.conf
