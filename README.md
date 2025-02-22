@@ -36,6 +36,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/xml/xml-original.svg" title="XML" alt="XML" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/tex/tex-original.svg" title="TeX" alt="TeX" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTeX" alt="LaTeX" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" title="LaTeX" alt="LaTeX" width="40" height="40"/>&nbsp;
       </td>
     </tr>
     <tr>
@@ -55,6 +56,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain-wordmark.svg" title="WordPress" alt="WordPress" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original-wordmark.svg" title="Prisma" alt="Prisma" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="jQuery" alt="jQuery" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="ExpressJS" alt="ExpressJS" width="40" height="40"/>&nbsp;
       </td>
     </tr>
     <tr>
@@ -96,23 +98,42 @@
       <td>
         <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" title="yarn" alt="yarn" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Vagrant" alt="Vagrant" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/jekyll/jekyll-original-wordmark.svg" title="Jekyll" alt="Jekyll" width="40" height="40"/>&nbsp;
       </td>
       <td>
         <img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" title="Gulp" alt="Gulp" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/vagrant/vagrant-original-wordmark.svg" title="Vagrant" alt="Vagrant" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/jekyll/jekyll-original-wordmark.svg" title="Jekyll" alt="Jekyll" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg" title="gcc" alt="gcc" width="40" height="40"/>&nbsp;
       </td>
     </tr>
     <tr>
-      <td>Viewers</td>
+      <td>Paint</td>
       <td>
         <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
         <img src="" title="Photopea" alt="Photopea" width="40" height="40"/>&nbsp;
+        <img src="" title="Draw.io" alt="Draw.io" width="40" height="40"/>&nbsp;
       </td>
       <td>
         <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
+      </td>
+    </tr>
+    <tr>
+      <td>DevOps</td>
+      <td>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows Server" alt="Windows Server" width="40" height="40"/>&nbsp;
+        <img src="" title="WAMP" alt="WAMP" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+        <img src="" title="cPanel" alt="cPanel" width="40" height="40"/>&nbsp;
+      </td>
+      <td>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+        <img src="" title="LAMP" alt="LAMP" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="nginx" alt="nginx" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/putty/putty-original.svg" title="putty" alt="putty" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original-wordmark.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" title="Google Cloud" alt="Google Cloud" width="40" height="40"/>&nbsp;
       </td>
     </tr>
   </tbody>
