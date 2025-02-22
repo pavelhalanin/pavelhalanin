@@ -1,5 +1,18 @@
 ## Pavel Halanin
 
+- Home: Minsk
+- Driver's license: B, C, Am
+- Website: DE-PA Electric www.de-pa.by
+
+## Socials
+
+
+- <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="20" height="20"/> GitHub: [Pavel Halanin](https://github.com/pavelhalanin)
+- <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="20" height="20"/> LinkedIn: [Pavel Halanin](https://www.linkedin.com/in/pavel-halanin-444568315)
+- Skype: pavelhalanin@outlook.com
+
+## My work
+
 <table>
   <thead>
     <tr>
