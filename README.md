@@ -1,19 +1,5 @@
 ## Pavel Halanin
 
-Languages: HTML, CSS, JavaScript, Google Apps Script, React, TypeScript, NodeJS, ExpressJS, NestJS, NextJS
-
-JS Builder: Gulp, Webpack
-
-Icons: Font Awesome, Bootstap Icons, Material Icons, Material Symbols.
-
-Query languages: SQL (MySQL/Oracle/SQLite/1C Предприятие), GraphQL.
-
-Technologies: CRUD, HTTP, REST API, WebSocket, LDAP, Yandex BEM
-
-Version Control: Git, SVN
-
-Servers: cPanel, WAMP, LAMP, Docker
-
 <table>
   <thead>
     <tr>
