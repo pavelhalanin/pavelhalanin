@@ -8,16 +8,16 @@
     - Я реализую WebSocket сервер (backend) на чистом PHP и свяжу её с браузером (frontend) на JavaScript
     - Я реализую WebSocket сервер (backend) на NodeJS и свяжу её с браузером (frontend) на JavaScript
     - Я реализую WebSocket сервер (backend) на Python и свяжу её с браузером (frontend) на JavaScript
-  - Я понимаю, что такое REST API сервер и могу связать его с мрдочкой (frontend)
+  - Я понимаю, что такое REST API сервер и могу связать его с мордочкой (frontend)
     - Я реализую REST API сервер (backend) на чистом PHP и свяжу её с мордочкой (frontend)
     - Я реализую REST API сервер (backend) на NodeJS на библиотека express и свяжу её с мордочкой (frontend)
     - Я реализую REST API сервер (backend) на NodeJS на фреймворке NestJS на языке TypeScript/JavaScript и свяжу её с мордочкой (frontend)
-    - Я понимаю как документировать REST API в SwaggerUI и могу написать как сам JSON с описанием, так и токументировать через анотации в коде как в NestJS
+    - Я понимаю как документировать REST API в SwaggerUI и могу написать как сам JSON с описанием OpenAPI, так и документировать через анотации в коде (как анотации в NestJS)
     - Я понимаю как делать авторизацию через куки (cookie)
     - Я понимаю как делать авторизацию через LDAP
-    - Я понимаю как делать авторизацию через JSON Web Token (JWT)
+    - Я понимаю как делать авторизацию через JSON Web Token (JWT), через токен доступа (access token) и токен обновления (refresh token)
     - Я разберусь в документации API и применю в Вашем приложении. Документация может быть такая: GitHub API, VK API, Telegram Bot API, Ozon Seller API 
-  - Я понимаю, как реализовывать веб-сайты (frontend)
+  - Я понимаю, как реализовывать веб-сайты и мобильные прилодения (frontend)
     - Я создам статический сайт на чистом HTML/CSS/JavaScript по вашему макету в Photoshop или Figma
     - Я сверстаю сайт на Bootstrap 5
     - Я создам динамический сайт (данные берутся из базы данных) на чистом PHP
@@ -30,6 +30,8 @@
     - Я куплю Вам хостинг (хранилище кода) (есть опыт покупки на юр. лицо ООО и на физ. лицо)
     - Я понимаю что такое ЯндексМетрика и подключу её к Вашему сайту
     - Я понимаю что такое sitemap.xml, robot.txt, webmanifest.json, favicons
+    - Я создам мобильное приложения в Android Studio на Java
+    - Я создам мобильное приложение на React Native на JavaScript/TypeScript
   - Я понимаю что такое CRON задачи
     - Я создам скрипты, которые могут выполняться в определенное время с определенной переодичностью на Windows, Linux, Google Apps Script, Google CLoud Scheduler
   - Я пишу на JavaScript/TypeScript
