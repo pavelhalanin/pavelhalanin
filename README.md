@@ -1,15 +1,129 @@
 ## Pavel Halanin
 
-- Home: Minsk
-- Driver's license: B, C, Am
-- Website: DE-PA Electric www.de-pa.by
+Причины по которым Вам нужно сотрудничать именно со мной:
+- Я дипломированный специалист (квалификация инженер-программист), что подтверждает диплом с отличием
+- Я понимаю клиент-серверную архитектуру и легко её реализую (я FullStack разработчик).
+Могу реализовать как серверную часть (backend), так и мордочку-интерфейс (frontend, User Interface).
+  - Я понимаю, что такое WebSocket сервер и могу связать сервеную часть (backend) с мордочкой (frontend).
+    - Я реализую WebSocket сервер (backend) на чистом PHP и свяжу её с браузером (frontend) на JavaScript
+    - Я реализую WebSocket сервер (backend) на NodeJS и свяжу её с браузером (frontend) на JavaScript
+    - Я реализую WebSocket сервер (backend) на Python и свяжу её с браузером (frontend) на JavaScript
+  - Я понимаю, что такое REST API сервер и могу связать его с мрдочкой (frontend)
+    - Я реализую REST API сервер (backend) на чистом PHP и свяжу её с мордочкой (frontend)
+    - Я реализую REST API сервер (backend) на NodeJS на библиотека express и свяжу её с мордочкой (frontend)
+    - Я реализую REST API сервер (backend) на NodeJS на фреймворке NestJS на языке TypeScript/JavaScript и свяжу её с мордочкой (frontend)
+    - Я понимаю как документировать REST API в SwaggerUI и могу написать как сам JSON с описанием, так и токументировать через анотации в коде как в NestJS
+    - Я понимаю как делать авторизацию через куки (cookie)
+    - Я понимаю как делать авторизацию через LDAP
+    - Я понимаю как делать авторизацию через JSON Web Token (JWT)
+    - Я разберусь в документации API и применю в Вашем приложении. Документация может быть такая: GitHub API, VK API, Telegram Bot API, Ozon Seller API 
+  - Я понимаю, как реализовывать веб-сайты (frontend)
+    - Я создам статический сайт на чистом HTML/CSS/JavaScript по вашему макету в Photoshop или Figma
+    - Я сверстаю сайт на Bootstrap 5
+    - Я создам динамический сайт (данные берутся из базы данных) на чистом PHP
+    - Я создам динамический сайт (данные берутся из базы данных) на CRM WordPress
+    - Я создам статический сайт на Jekyll и выложу на GitHub pages
+    - Я создам SPA (Single Page Application) статический сайт на ReactJS
+    - Я создам SSR (Server Side Rendering) динамический сайт на NextJS
+    - Я могу купить Вам домен (имя сайта) (есть опыт покупки на юр. лицо ООО и на физ. лицо)
+    - Я зарегистрирую Ваш сайт в БелГИЭ (есть опыт покупки на юр. лицо ООО и на физ. лицо)
+    - Я куплю Вам хостинг (хранилище кода) (есть опыт покупки на юр. лицо ООО и на физ. лицо)
+    - Я понимаю что такое ЯндексМетрика и подключу её к Вашему сайту
+    - Я понимаю что такое sitemap.xml, robot.txt, webmanifest.json, favicons
+  - Я понимаю что такое CRON задачи
+    - Я создам скрипты, которые могут выполняться в определенное время с определенной переодичностью на Windows, Linux, Google Apps Script, Google CLoud Scheduler
+  - Я пишу на JavaScript/TypeScript
+    - Я читаю и понимаю чужой код на JavaScript/TypeScript
+    - Я могу делать откладку кода по точкам останова
+    - Я понимаю асинхронное программирование и могу использовать асинхронные функции, понимаю конструкцию try-catch async-await, понимаю промисы. Напишу запрос к серверу через fetch, axios
+    - Я напишу запросы GraphQL на JavaScript
+    - Я знаю что такое деструкторизация
+    - Я настрою сборку проекта на Gulp
+    - Я настрою сборку проекта на WebPack
+    - Я создам проект на CreateReactApp
+    - Я могу устанавливать node modules через npm и yarn
+    - Я могу установать node modules по package.json файлу
+    - Я создам проект на ViteJS
+    - Я напишу ReactJS приложение (SPA, SSR) для браузера
+    - Я напишу React Native приложение для мобильного телефона (Android)
+    - Я напишу REST API на NodeJS на библиотеке ExpressJS
+    - Я напишу REST API на NodeJS на фреймворке NestJS
+    - Я напишу WebSocket сервер на NodeJS
+    - Я работаю с куками (Cookie) и с хранилещем (localStorage/SessionStorage) через JS
+    - Я сформирую Excel файл через JavaScript код
+    - Я настрою Prettier конфиг для выравнивания кода
+    - Я настрою ESLinter конфиг для проверки JS/TS кода
+    - Я напишу Unit тесты для JavaScript/TypeScript кода
+    - Я напишу код на JavaScript/TypeScript, который скопмилируется в Google Apps Script, чтобы работать с Google Table или реализовать Viber, Telegram бота без покупки хостинга
+  - Я пишу на PHP
+    - Я настрою конфиг http.conf и php.ini
+    - Я читаю и понимаю чужой код на PHP
+    - Я понимаю как сделать авторизацию на LDAP
+    - Я понимаю как писать SQL запросы в базу данных (MySQL, MariaDB, Oracle) применяя PDO
+    - Я понимаю как писать curl запросы
+    - Я понимаю как писать GraphQL запросы
+    - Я понимаю как работь с куки (cookie)
+    - Я реализую REST API на чистом PHP
+    - Я реализую WebSocket на чистом PHP
+    - Я разверну WAMP (Windows Apache PHP MySQL), LAMP (Linux Apache PHP MySQL), OpenServer
+  - Я пишу CSS
+    - я могу использовать препроцессоры SCSS, SASS, LESS, Stylus
+    - я могу использовать шрифты (Google Fonts)
+    - я могу использовать иконки (Font Awesome, Bootsrap Icons, Material Icons, Material Symbols)
+    - я сверстаю сайт по Вашему макету в Photoshop или Figma
+    - я напишу анимацию на CSS
+    - я понимаю методологию Яндекс БЭМ (блоке эелемент модицикатор)
+    - я понимаю как использовать CSS modules
+  - Я пишу на Python
+    - я понимаю, что такое Anaconda и Miniconda и могу устанавливать пакеты в отдельное окружение
+    - я устанвлю пакеты из requarements.txt
+    - я реализую WebSocket на Python
+    - я обучу нейронную сеть Ollama модели llama 3 на 8 милиардов параметров на Python на ваших файлах, чтобы GPT отвечал по Вашим данным
+  - Я пишу на 1C:Предприятие
+    - я могу создавать макеты на основе Вашего Excel файла. Это могут быть: ТН - Товарная накладная, ТТН - товарно транспортная накладная
+    - я могу писать SQL запросы в 1C:Предприятие
+    - я напишу обработчик, который будет получать данные по API и загружать данные Ваш в 1C:Предприятие
+  - Я могу настраивать приложения для работы с Электронно Цифровой Подписью (ЭЦП)
+    - я устанвлю Avest, NTClient, AvTune, ProxyServer, KARMA
+    - я скачаю Ваш сертификат (открытый ключ) и импортирую в Avest
+    - настрою режим совместимости c Internet Explorer в Microsoft Edge для работы с ЭЦП
+  - Я понимаю контейнеризацию
+    - я запакую Ваши приложение через Dockerfile или docker-compose.yml
+    - я сделаю автоматическую сборку при добавлении кода в главную ветку (main), образ которого попадет на DockerHub
+    - я сделаю автоматическую проверку версии на DockerHub через watchtower, чтобы обновлять версию в docker-compose.yml
+    - я напищу Kubernetes конфиг для вашего Docker контейнера
+    - я напишу Vargrant файл, который установит ПО в VirtualBox
+  - Я понимаю облака Google
+    - я установлю Ваш проект в Google Cloud Compute Engine и в Google Cloud App Engine
+    - я напишу обмен сообщениями через Google Cloud PubSub
+    - я настрою CRON через Google Cloud Scheduler
+  - Я могу оказывать техническую поддержку пользователей
+    - получу заявку пользователя по системe Open-Source Ticket Request System (OTRS)
+    - позвоню пользователю, разберусь в проблеме и решу её
+    - соеденись с пользователем по TeamViewer, AnyDesk, RustDesk, Radmin
+  - Я понимаю систему контроля версий кода
+    - я могу добавлять (add), сохранять (commit), загружать (push) код, исправлять конфликты, используя Git, GitHub, GitLab
+    - я могу добавлять, сохранять, загружать, обновлять код, исправлять конфликты, используя систему контроля версия Tortorize SVN (sub version)
 
-## Socials
+Мои проекты, которые доступны в общем доступе:
+- 2017-2025 Веб-сайт ООО "ДЕ-ПА" (DE-PA Electric) турецкая электрика: www.de-pa.by
+- 2025 Веб-сайт Медиаторы Бреста: www.mediatory-brest.by
+- 2023 Телеграм бот для определния верхней или нижней недели (для студенческих лет): www.t.me/St190333_WhatWeekBoot
+- 2022 Веб-сайт с календарем верхних и нижних недель (для студенческих лет): www.pavelhalanin.github.io/2022-what-week-site
+- 2018 EPAM Макет социальной сети, который сверстал из Photoshop файла: www.pavelhalanin.github.io/2018-Epam-ItSharkPro-HtmlCssHomework
 
+Мой опыт работы (оффифиально 2 года по специальности инженер-программист и 4 года обучения в университете)
+- 2024-2025 (1 год) ЗАО Атлант
+- 2023-2024 (1 год) ООО "ДЕ-ПА"
+- 2019-2023 (4 года) Обучение в Брестском Государственном Техническом Университете на специальности "Программное обечпечение информационных технологий" (присвоена квалификация инженер-программист)
 
-- <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="20" height="20"/> GitHub: [Pavel Halanin](https://github.com/pavelhalanin)
-- <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="20" height="20"/> LinkedIn: [Pavel Halanin](https://www.linkedin.com/in/pavel-halanin-444568315)
+Вы можете найти меня в сети:
+- LinkedIn: www.linkedin.com/in/pavel-halanin-444568315
+- GitHub: www.github.com/pavelhalanin
 - Skype: pavelhalanin@outlook.com
+
+Другие особенности:
+- права вождения категори B, С, Am
 
 ## My work
 
