@@ -33,3 +33,9 @@ FBO (Fulfillment by OZON): опыт работы с выдачей заказо�
 - Выдача заказов покупателям со склада.
 - Оформление накладных.
 - Отправка коробов на транзит и возврат.
+
+🌐 Социальные сети
+- [LinkedIn](www.linkedin.com/in/pavel-halanin-444568315)
+- [GitHub](https://github.com/pavelhalanin/)
+- [Steam](https://steamcommunity.com/profiles/76561199221004640/)
+- WebSite [ООО "ДЕ-ПА"](https://de-pa.by), [Kung Consulting](https://kungconsulting.com)
