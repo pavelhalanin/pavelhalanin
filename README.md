@@ -17,6 +17,7 @@ Work Experience 3 year
 - **Discord**: [pavgal](https://discord.com/users/1482615972060991488)
 - **GitHub**: [pavelhalanin](https://github.com/pavelhalanin)
 - **LinkedIn**: [pavelhalanin](https://www.linkedin.com/in/pavelhalanin/)
+- **CodeWars**: [rsschool](https://www.codewars.com/users/rsschool_7f3e087f4b5570c1)
 - **WebSite**:
     - [OOO DE-PA](https://www.de-pa.by/)
     - [Kung Consulting](https://www.kungconsulting.com/)
