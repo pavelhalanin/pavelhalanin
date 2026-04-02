@@ -14,7 +14,7 @@ Work Experience 3 year
 
 - **Phone**: [+375-33-331-32-03](tel:+375333313203)
 - **E-mail**: [pavelhalanin@outlook.com](mailto:pavelhalanin@outlook.com)
-- **Discord**: pavgal
+- **Discord**: [pavgal](https://discord.com/users/1482615972060991488)
 - **GitHub**: [pavelhalanin](https://github.com/pavelhalanin)
 - **LinkedIn**: [pavelhalanin](https://www.linkedin.com/in/pavelhalanin/)
 - **WebSite**:
