@@ -112,8 +112,13 @@ catch(exception) {
         - Codewars Part 1: [rsschool](https://www.codewars.com/users/rsschool_7f3e087f4b5570c1)
         - Christmas shop. Part 1: Fixed Layout [EN]: [Web-site](https://rolling-scopes-school.github.io/pavelhalanin-JSFEPRESCHOOL2026Q1/christmas-shop/)
 
-## 8. Languages
+## 8. English Language
 
-- English - I read, I speak fluently
+### About English
+
+I read, I speak fluently. I've been practicing English for 12 years.
+
+### Other languages
+
 - Russian - native Landuage
 - Belarusian - native Landuage
