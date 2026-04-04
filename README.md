@@ -96,11 +96,21 @@ catch(exception) {
 
 ## 7. Education
 
-- Brest State Technical University (4 years)
-    - September 2019 - June 2023 
-    - Diploma of Higher Education with Honors
-    - Qualification: "Software Engineer"
-    - Specialty: "Information Technology Software"
+- Tech education
+    - Brest State Technical University (4 years)
+        - September 2019 - June 2023 
+        - Diploma of Higher Education with Honors
+        - Qualification: "Software Engineer"
+        - Specialty: "Information Technology Software"
+- Driving licence
+    - Category C
+    - Category B, Am
+ - Courses
+    - RS School Stage 0 (16 March 2026 - 01 June 2026)
+        - CV#1. Markdown & Git: [Web-site](https://pavelhalanin.github.io/rsschool-cv/cv), [GitHub repo](https://github.com/pavelhalanin/rsschool-cv)
+        - CV#2. HTML, CSS & Git Basics: [Web-site](https://pavelhalanin.github.io/rsschool-cv/), [GitHub repo](https://github.com/pavelhalanin/rsschool-cv)
+        - Codewars Part 1: [rsschool](https://www.codewars.com/users/rsschool_7f3e087f4b5570c1)
+        - Christmas shop. Part 1: Fixed Layout [EN]: [Web-site](https://rolling-scopes-school.github.io/pavelhalanin-JSFEPRESCHOOL2026Q1/christmas-shop/)
 
 ## 8. Languages
 
