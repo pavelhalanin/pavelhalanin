@@ -110,7 +110,9 @@ catch(exception) {
         - CV#1. Markdown & Git: [Web-site](https://pavelhalanin.github.io/rsschool-cv/cv), [GitHub repo](https://github.com/pavelhalanin/rsschool-cv)
         - CV#2. HTML, CSS & Git Basics: [Web-site](https://pavelhalanin.github.io/rsschool-cv/), [GitHub repo](https://github.com/pavelhalanin/rsschool-cv)
         - Codewars Part 1: [rsschool](https://www.codewars.com/users/rsschool_7f3e087f4b5570c1)
-        - Christmas shop. Part 1: Fixed Layout [EN]: [Web-site](https://rolling-scopes-school.github.io/pavelhalanin-JSFEPRESCHOOL2026Q1/christmas-shop/)
+        - Christmas shop. Part 1: Fixed Layout [EN]: [Web-site](https://rolling-scopes-school.github.io/pavelhalanin-JSFEPRESCHOOL2026Q1/christmas-shop/), [Private GitHub repo](https://github.com/rolling-scopes-school/pavelhalanin-JSFEPRESCHOOL2026Q1)
+        - ReverseInt: [GitHub repo](https://github.com/pavelhalanin/reverse-int)
+        - Human readadle number: [GitHub repo](https://github.com/pavelhalanin/human-readable-number)
 
 ## 8. English Language
 
