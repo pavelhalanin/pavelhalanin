@@ -285,10 +285,10 @@ catch(exception) {
                     <td>20.04.2026</td>
                     <td>04.05.2026</td>
                     <td rowspan="2">
-                        <a href="https://github.com/pavelhalanin/RSSchool_2026Q1_Stage0__ChristmasShop">repo</a>
+                        <a href="https://github.com/pavelhalanin/RSSchool_2026Q1_Stage0__DashboardProject">repo</a>
                     </td>
                     <td rowspan="2">
-                        <a href="https://pavelhalanin.github.io/RSSchool_2026Q1_Stage0__ChristmasShop/christmas-shop/">web</a>
+                        <a href="https://pavelhalanin.github.io/RSSchool_2026Q1_Stage0__DashboardProject/">web</a>
                     </td>
                 </tr>
                 <tr>
