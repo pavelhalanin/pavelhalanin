@@ -2,7 +2,7 @@
 
 Pavel Halanin
 
-<img src="https://pavelhalanin.github.io/rsschool-cv/assets/favicon/favicon_144.png" />
+<img src="https://pavelhalanin.github.io/RSSchool_2026Q1_Stage0__CV/assets/favicon/favicon_144.png" />
 
 Middle Software Engineer
 
@@ -107,12 +107,198 @@ catch(exception) {
     - Category B, Am
  - Courses
     - RS School Stage 0 (16 March 2026 - 01 June 2026)
-        - CV#1. Markdown & Git: [Web-site](https://pavelhalanin.github.io/rsschool-cv/cv), [GitHub repo](https://github.com/pavelhalanin/rsschool-cv)
-        - CV#2. HTML, CSS & Git Basics: [Web-site](https://pavelhalanin.github.io/rsschool-cv/), [GitHub repo](https://github.com/pavelhalanin/rsschool-cv)
-        - Codewars Part 1: [rsschool](https://www.codewars.com/users/rsschool_7f3e087f4b5570c1)
-        - Christmas shop. Part 1: Fixed Layout [EN]: [Web-site](https://rolling-scopes-school.github.io/pavelhalanin-JSFEPRESCHOOL2026Q1/christmas-shop/), [Private GitHub repo](https://github.com/rolling-scopes-school/pavelhalanin-JSFEPRESCHOOL2026Q1)
-        - ReverseInt: [GitHub repo](https://github.com/pavelhalanin/reverse-int)
-        - Human readadle number: [GitHub repo](https://github.com/pavelhalanin/human-readable-number)
+        <table>
+            <thead>
+                <tr>
+                    <th>Task/Event</th>
+                    <th>Type</th>
+                    <th>Start Date</th>
+                    <th>End Date</th>
+                    <th>Repo</th>
+                    <th>Web</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Git test (EN)</td>
+                    <td>Test</td>
+                    <td>16.03.2026</td>
+                    <td>11.05.2026</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>CV#1. Markdown & Git</td>
+                    <td>Coding</td>
+                    <td>16.03.2026</td>
+                    <td>30.05.2026</td>
+                    <td>
+                        <a href="https://github.com/pavelhalanin/RSSchool_2026Q1_Stage0__CV">repo</a>
+                    </td>
+                    <td>
+                        <a href="https://pavelhalanin.github.io/RSSchool_2026Q1_Stage0__CV/cv">web</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td>[St1] Test HTML Basics</td>
+                    <td>Test</td>
+                    <td>23.03.2026</td>
+                    <td>11.05.2026</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>[St1] Test CSS Basics</td>
+                    <td>Test</td>
+                    <td>23.03.2026</td>
+                    <td>11.05.2026</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>CV#2. HTML, CSS & Git Basics</td>
+                    <td>Coding</td>
+                    <td>23.03.2026</td>
+                    <td>30.03.2026</td>
+                    <td rowspan="3">
+                        <a href="https://github.com/pavelhalanin/RSSchool_2026Q1_Stage0__CV">repo</a>
+                    </td>
+                    <td rowspan="3">
+                        <a href="https://pavelhalanin.github.io/RSSchool_2026Q1_Stage0__CV/">web</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td>CV#3. CV. Cross Check</td>
+                    <td>Cross-Check: Submit</td>
+                    <td>23.03.2026</td>
+                    <td>30.03.2026</td>
+                </tr>
+                <tr>
+                    <td>CV#3. CV. Cross Check</td>
+                    <td>Cross-Check: Review</td>
+                    <td>30.03.2026</td>
+                    <td>03.04.2026</td>
+                </tr>
+                <tr>
+                    <td>Codewars Part 1</td>
+                    <td>Coding</td>
+                    <td>30.03.2026</td>
+                    <td>27.04.2026</td>
+                    <td></td>
+                    <td>
+                        <a href="https://www.codewars.com/users/rsschool_7f3e087f4b5570c1">CodeWars</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td>[St1] JS Basics</td>
+                    <td>Test</td>
+                    <td>06.04.2026</td>
+                    <td>11.05.2026</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>Human Readable Number</td>
+                    <td>Coding</td>
+                    <td>06.04.2026</td>
+                    <td>11.05.2026</td>
+                    <td>
+                        <a href="https://github.com/pavelhalanin/human-readable-number">repo</a>
+                    </td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>Reverse Int</td>
+                    <td>Coding</td>
+                    <td>06.04.2026</td>
+                    <td>11.05.2026</td>
+                    <td>
+                        <a href="https://github.com/pavelhalanin/reverse-int">repo</a>
+                    </td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>Codewars Part 2</td>
+                    <td>Coding</td>
+                    <td>06.04.2026</td>
+                    <td>27.04.2026</td>
+                    <td></td>
+                    <td>
+                        <a href="https://www.codewars.com/users/rsschool_7f3e087f4b5570c1">CodeWars</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Christmas shop. Part 1: Fixed Layout [EN]</td>
+                    <td>Cross-Check: Submit</td>
+                    <td>03.30.2026</td>
+                    <td>06.04.2026</td>
+                    <td rowspan="6">
+                        <a href="https://github.com/pavelhalanin/RSSchool_2026Q1_Stage0__ChristmasShop">repo</a>
+                    </td>
+                    <td rowspan="6">
+                        <a href="https://pavelhalanin.github.io/RSSchool_2026Q1_Stage0__ChristmasShop/christmas-shop/">web</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Christmas shop. Part 1: Fixed Layout [EN]</td>
+                    <td>Cross-Check: Review</td>
+                    <td>06.04.2026</td>
+                    <td>10.04.2026</td>
+                </tr>
+                <tr>
+                    <td>Christmas shop. Part 2: Responsive Design [EN]</td>
+                    <td>Cross-Check: Submit</td>
+                    <td>06.04.2026</td>
+                    <td>13.04.2026</td>
+                </tr>
+                <tr>
+                    <td>Christmas shop. Part 2: Responsive Design [EN]</td>
+                    <td>Cross-Check: Review</td>
+                    <td>13.04.2026</td>
+                    <td>17.04.2026</td>
+                </tr>
+                <tr>
+                    <td>Christmas shop. Part 3: Adding Functionality [EN]</td>
+                    <td>Cross-Check: Submit</td>
+                    <td>13.04.2026</td>
+                    <td>20.04.2026</td>
+                </tr>
+                <tr>
+                    <td>Christmas shop. Part 3: Adding Functionality [EN]</td>
+                    <td>Cross-Check: Review</td>
+                    <td>20.04.2026</td>
+                    <td>24.04.2026</td>
+                </tr>
+                <tr>
+                    <td>core-js-101(S0)</td>
+                    <td>Coding</td>
+                    <td>20.04.2026</td>
+                    <td>11.05.2026</td>
+                    <td>
+                        <a href="https://github.com/pavelhalanin/core-js-101-stage0">repo</a>
+                    </td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>Dashboard Project</td>
+                    <td>Cross-Check: Submit</td>
+                    <td>20.04.2026</td>
+                    <td>04.05.2026</td>
+                    <td rowspan="2">
+                        <a href="https://github.com/pavelhalanin/RSSchool_2026Q1_Stage0__ChristmasShop">repo</a>
+                    </td>
+                    <td rowspan="2">
+                        <a href="https://pavelhalanin.github.io/RSSchool_2026Q1_Stage0__ChristmasShop/christmas-shop/">web</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Dashboard Project</td>
+                    <td>Cross-Check: Review</td>
+                    <td>04.05.2026</td>
+                    <td>08.05.2026</td>
+                </tr>
+            </tbody>
+        </table>
 
 ## 8. English Language
 
