@@ -168,13 +168,12 @@ catch(exception) {
                     </td>
                 </tr>
                 <tr>
-                    <td>CV#3. CV. Cross Check</td>
+                    <td rowspan="2">CV#3. CV. Cross Check</td>
                     <td>🟦Cross-Check: Submit</td>
                     <td>23.03.2026</td>
                     <td>30.03.2026</td>
                 </tr>
                 <tr>
-                    <td>CV#3. CV. Cross Check</td>
                     <td>🟩Cross-Check: Review</td>
                     <td>30.03.2026</td>
                     <td>03.04.2026</td>
@@ -228,7 +227,7 @@ catch(exception) {
                     </td>
                 </tr>
                 <tr>
-                    <td>Christmas shop. Part 1: Fixed Layout [EN]</td>
+                    <td rowspan="2">Christmas shop. Part 1: Fixed Layout [EN]</td>
                     <td>🟦Cross-Check: Submit</td>
                     <td>03.30.2026</td>
                     <td>06.04.2026</td>
@@ -240,31 +239,28 @@ catch(exception) {
                     </td>
                 </tr>
                 <tr>
-                    <td>Christmas shop. Part 1: Fixed Layout [EN]</td>
                     <td>🟩Cross-Check: Review</td>
                     <td>06.04.2026</td>
                     <td>10.04.2026</td>
                 </tr>
                 <tr>
-                    <td>Christmas shop. Part 2: Responsive Design [EN]</td>
+                    <td rowspan="2">Christmas shop. Part 2: Responsive Design [EN]</td>
                     <td>🟦Cross-Check: Submit</td>
                     <td>06.04.2026</td>
                     <td>13.04.2026</td>
                 </tr>
                 <tr>
-                    <td>Christmas shop. Part 2: Responsive Design [EN]</td>
                     <td>🟩Cross-Check: Review</td>
                     <td>13.04.2026</td>
                     <td>17.04.2026</td>
                 </tr>
                 <tr>
-                    <td>Christmas shop. Part 3: Adding Functionality [EN]</td>
+                    <td rowspan="2">Christmas shop. Part 3: Adding Functionality [EN]</td>
                     <td>🟦Cross-Check: Submit</td>
                     <td>13.04.2026</td>
                     <td>20.04.2026</td>
                 </tr>
                 <tr>
-                    <td>Christmas shop. Part 3: Adding Functionality [EN]</td>
                     <td>🟩Cross-Check: Review</td>
                     <td>20.04.2026</td>
                     <td>24.04.2026</td>
@@ -280,7 +276,7 @@ catch(exception) {
                     <td></td>
                 </tr>
                 <tr>
-                    <td>Dashboard Project</td>
+                    <td rowspan="2">Dashboard Project</td>
                     <td>🟦Cross-Check: Submit</td>
                     <td>20.04.2026</td>
                     <td>04.05.2026</td>
@@ -292,7 +288,6 @@ catch(exception) {
                     </td>
                 </tr>
                 <tr>
-                    <td>Dashboard Project</td>
                     <td>🟩Cross-Check: Review</td>
                     <td>04.05.2026</td>
                     <td>08.05.2026</td>
