@@ -121,7 +121,7 @@ catch(exception) {
             <tbody>
                 <tr>
                     <td>Git test (EN)</td>
-                    <td>Test</td>
+                    <td>🟨Test</td>
                     <td>16.03.2026</td>
                     <td>11.05.2026</td>
                     <td></td>
@@ -129,7 +129,7 @@ catch(exception) {
                 </tr>
                 <tr>
                     <td>CV#1. Markdown & Git</td>
-                    <td>Coding</td>
+                    <td>🟪Coding</td>
                     <td>16.03.2026</td>
                     <td>30.05.2026</td>
                     <td>
@@ -141,7 +141,7 @@ catch(exception) {
                 </tr>
                 <tr>
                     <td>[St1] Test HTML Basics</td>
-                    <td>Test</td>
+                    <td>🟨Test</td>
                     <td>23.03.2026</td>
                     <td>11.05.2026</td>
                     <td></td>
@@ -149,7 +149,7 @@ catch(exception) {
                 </tr>
                 <tr>
                     <td>[St1] Test CSS Basics</td>
-                    <td>Test</td>
+                    <td>🟨Test</td>
                     <td>23.03.2026</td>
                     <td>11.05.2026</td>
                     <td></td>
@@ -157,7 +157,7 @@ catch(exception) {
                 </tr>
                 <tr>
                     <td>CV#2. HTML, CSS & Git Basics</td>
-                    <td>Coding</td>
+                    <td>🟪Coding</td>
                     <td>23.03.2026</td>
                     <td>30.03.2026</td>
                     <td rowspan="3">
@@ -169,19 +169,19 @@ catch(exception) {
                 </tr>
                 <tr>
                     <td>CV#3. CV. Cross Check</td>
-                    <td>Cross-Check: Submit</td>
+                    <td>🟦Cross-Check: Submit</td>
                     <td>23.03.2026</td>
                     <td>30.03.2026</td>
                 </tr>
                 <tr>
                     <td>CV#3. CV. Cross Check</td>
-                    <td>Cross-Check: Review</td>
+                    <td>🟩Cross-Check: Review</td>
                     <td>30.03.2026</td>
                     <td>03.04.2026</td>
                 </tr>
                 <tr>
                     <td>Codewars Part 1</td>
-                    <td>Coding</td>
+                    <td>🟪Coding</td>
                     <td>30.03.2026</td>
                     <td>27.04.2026</td>
                     <td></td>
@@ -191,7 +191,7 @@ catch(exception) {
                 </tr>
                 <tr>
                     <td>[St1] JS Basics</td>
-                    <td>Test</td>
+                    <td>🟨Test</td>
                     <td>06.04.2026</td>
                     <td>11.05.2026</td>
                     <td></td>
@@ -199,7 +199,7 @@ catch(exception) {
                 </tr>
                 <tr>
                     <td>Human Readable Number</td>
-                    <td>Coding</td>
+                    <td>🟪Coding</td>
                     <td>06.04.2026</td>
                     <td>11.05.2026</td>
                     <td>
@@ -209,7 +209,7 @@ catch(exception) {
                 </tr>
                 <tr>
                     <td>Reverse Int</td>
-                    <td>Coding</td>
+                    <td>🟪Coding</td>
                     <td>06.04.2026</td>
                     <td>11.05.2026</td>
                     <td>
@@ -219,7 +219,7 @@ catch(exception) {
                 </tr>
                 <tr>
                     <td>Codewars Part 2</td>
-                    <td>Coding</td>
+                    <td>🟪Coding</td>
                     <td>06.04.2026</td>
                     <td>27.04.2026</td>
                     <td></td>
@@ -229,7 +229,7 @@ catch(exception) {
                 </tr>
                 <tr>
                     <td>Christmas shop. Part 1: Fixed Layout [EN]</td>
-                    <td>Cross-Check: Submit</td>
+                    <td>🟦Cross-Check: Submit</td>
                     <td>03.30.2026</td>
                     <td>06.04.2026</td>
                     <td rowspan="6">
@@ -241,37 +241,37 @@ catch(exception) {
                 </tr>
                 <tr>
                     <td>Christmas shop. Part 1: Fixed Layout [EN]</td>
-                    <td>Cross-Check: Review</td>
+                    <td>🟩Cross-Check: Review</td>
                     <td>06.04.2026</td>
                     <td>10.04.2026</td>
                 </tr>
                 <tr>
                     <td>Christmas shop. Part 2: Responsive Design [EN]</td>
-                    <td>Cross-Check: Submit</td>
+                    <td>🟦Cross-Check: Submit</td>
                     <td>06.04.2026</td>
                     <td>13.04.2026</td>
                 </tr>
                 <tr>
                     <td>Christmas shop. Part 2: Responsive Design [EN]</td>
-                    <td>Cross-Check: Review</td>
+                    <td>🟩Cross-Check: Review</td>
                     <td>13.04.2026</td>
                     <td>17.04.2026</td>
                 </tr>
                 <tr>
                     <td>Christmas shop. Part 3: Adding Functionality [EN]</td>
-                    <td>Cross-Check: Submit</td>
+                    <td>🟦Cross-Check: Submit</td>
                     <td>13.04.2026</td>
                     <td>20.04.2026</td>
                 </tr>
                 <tr>
                     <td>Christmas shop. Part 3: Adding Functionality [EN]</td>
-                    <td>Cross-Check: Review</td>
+                    <td>🟩Cross-Check: Review</td>
                     <td>20.04.2026</td>
                     <td>24.04.2026</td>
                 </tr>
                 <tr>
                     <td>core-js-101(S0)</td>
-                    <td>Coding</td>
+                    <td>🟪Coding</td>
                     <td>20.04.2026</td>
                     <td>11.05.2026</td>
                     <td>
@@ -281,7 +281,7 @@ catch(exception) {
                 </tr>
                 <tr>
                     <td>Dashboard Project</td>
-                    <td>Cross-Check: Submit</td>
+                    <td>🟦Cross-Check: Submit</td>
                     <td>20.04.2026</td>
                     <td>04.05.2026</td>
                     <td rowspan="2">
@@ -293,7 +293,7 @@ catch(exception) {
                 </tr>
                 <tr>
                     <td>Dashboard Project</td>
-                    <td>Cross-Check: Review</td>
+                    <td>🟩Cross-Check: Review</td>
                     <td>04.05.2026</td>
                     <td>08.05.2026</td>
                 </tr>
