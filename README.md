@@ -332,6 +332,16 @@ catch(exception) {
                     </td>
                     <td></td>
                 </tr>
+                <tr>
+                    <td>Codewars Part 3</td>
+                    <td>🟪Coding</td>
+                    <td>27.04.2026</td>
+                    <td>11.05.2026</td>
+                    <td></td>
+                    <td>
+                        <a href="https://www.codewars.com/users/rsschool_7f3e087f4b5570c1">CodeWars</a>
+                    </td>
+                </tr>
             </tbody>
         </table>
 
