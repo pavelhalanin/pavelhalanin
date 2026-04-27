@@ -312,6 +312,16 @@ catch(exception) {
                     </td>
                     <td></td>
                 </tr>
+                <tr>
+                    <td>Towel Sort</td>
+                    <td>🟪Coding</td>
+                    <td>27.04.2026</td>
+                    <td>11.05.2026</td>
+                    <td>
+                        <a href="https://github.com/pavelhalanin/towel-sort">repo</a>
+                    </td>
+                    <td></td>
+                </tr>
             </tbody>
         </table>
 
