@@ -293,6 +293,14 @@ catch(exception) {
                     <td>08.05.2026</td>
                 </tr>
                 <tr>
+                    <td>Test Algorithms & Data structures</td>
+                    <td>🟨Test</td>
+                    <td>27.04.2026</td>
+                    <td>11.05.2026</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
                     <td>JS: Guessing-game</td>
                     <td>🟪Coding</td>
                     <td>27.04.2026</td>
