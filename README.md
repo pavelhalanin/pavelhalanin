@@ -293,6 +293,16 @@ catch(exception) {
                     <td>08.05.2026</td>
                 </tr>
                 <tr>
+                    <td>JS: Guessing-game</td>
+                    <td>🟪Coding</td>
+                    <td>27.04.2026</td>
+                    <td>11.05.2026</td>
+                    <td>
+                        <a href="https://github.com/pavelhalanin/guessing-game">repo</a>
+                    </td>
+                    <td></td>
+                </tr>
+                <tr>
                     <td>JS: Morse-decoder</td>
                     <td>🟪Coding</td>
                     <td>27.04.2026</td>
