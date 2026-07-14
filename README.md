@@ -106,17 +106,232 @@ catch(exception) {
     - Category C
     - Category B, Am
  - Courses
+   - <details open>
+      <summary>RS School Stage 3 (27 April 2026 - 17 July 2026)</summary>
+      <table>
+         <thead>
+          <tr>
+            <th width="300">Task/Event</th>
+            <th width="210">Type</th>
+            <th width="100">Start Date</th>
+            <th width="100">End Date</th>
+            <th width="100">Repo</th>
+            <th width="100">Web</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>React. Test #0 How to learn in RS School</td>
+            <td>🟨Test</td>
+            <td>27.04.2026</td>
+            <td>12.05.2026</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>React test 1. React components</td>
+            <td>🟨Test</td>
+            <td>27.04.2026</td>
+            <td>05.05.2026</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td rowspan="2">React task 1. Cross-check: React project setup. Class components. Error boundary.</td>
+            <td>🟦Cross-Check: Submit</td>
+            <td>27.04.2026</td>
+            <td>05.05.2026</td>
+            <td rowspan="2"></td>
+            <td rowspan="2"></td>
+          </tr>
+          <tr>
+            <td>🟩Cross-Check: Review</td>
+            <td>05.05.2026</td>
+            <td>08.05.2026</td>
+          </tr>
+          <tr>
+            <td>React test 2. Testing</td>
+            <td>🟨Test</td>
+            <td>04.05.2026</td>
+            <td>12.05.2026</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td rowspan="2">React task 2. Cross-check: Unit Testing</td>
+            <td>🟦Cross-Check: Submit</td>
+            <td>04.05.2026</td>
+            <td>12.05.2026</td>
+            <td rowspan="2"></td>
+            <td rowspan="2"></td>
+          </tr>
+          <tr>
+            <td>🟩Cross-Check: Review</td>
+            <td>12.05.2026</td>
+            <td>15.05.2026</td>
+          </tr>
+          <tr>
+            <td>React test 3. React Hooks and Routing</td>
+            <td>🟨Test</td>
+            <td>11.05.2026</td>
+            <td>19.05.2026</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td rowspan="2">React task 3. Cross-check: Routing and Hooks</td>
+            <td>🟦Cross-Check: Submit</td>
+            <td>11.05.2026</td>
+            <td>19.05.2026</td>
+            <td rowspan="2"></td>
+            <td rowspan="2"></td>
+          </tr>
+          <tr>
+            <td>🟩Cross-Check: Review</td>
+            <td>19.05.2026</td>
+            <td>22.05.2026</td>
+          </tr>
+          <tr>
+            <td>React test 4. State management</td>
+            <td>🟨Test</td>
+            <td>18.05.2026</td>
+            <td>26.05.2026</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td rowspan="2">React task 4. Cross-check: State Management and Context API</td>
+            <td>🟦Cross-Check: Submit</td>
+            <td>18.05.2026</td>
+            <td>26.05.2026</td>
+            <td rowspan="2"></td>
+            <td rowspan="2"></td>
+          </tr>
+          <tr>
+            <td>🟩Cross-Check: Review</td>
+            <td>26.05.2026</td>
+            <td>29.05.2026</td>
+          </tr>
+          <tr>
+            <td>React test 5. Queries APIs</td>
+            <td>🟨Test</td>
+            <td>25.05.2026</td>
+            <td>02.06.2026</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td rowspan="2">React task 5. Cross-check: API Querying in React</td>
+            <td>🟦Cross-Check: Submit</td>
+            <td>25.05.2026</td>
+            <td>02.06.2026</td>
+            <td rowspan="2"></td>
+            <td rowspan="2"></td>
+          </tr>
+          <tr>
+            <td>🟩Cross-Check: Review</td>
+            <td>02.06.2026</td>
+            <td>05.06.2026</td>
+          </tr>
+          <tr>
+          <tr>
+            <td>React test 6. React Forms</td>
+            <td>🟨Test</td>
+            <td>01.06.2026</td>
+            <td>09.06.2026</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td rowspan="2">React task 6. Cross-check: React Forms</td>
+            <td>🟦Cross-Check: Submit</td>
+            <td>01.06.2026</td>
+            <td>09.06.2026</td>
+            <td rowspan="2"></td>
+            <td rowspan="2"></td>
+          </tr>
+          <tr>
+            <td>🟩Cross-Check: Review</td>
+            <td>09.06.2026</td>
+            <td>12.06.2026</td>
+          </tr>
+          <tr>
+            <td>React test 7. React Performance</td>
+            <td>🟨Test</td>
+            <td>08.06.2026</td>
+            <td>16.06.2026</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td rowspan="2">React task 7. Cross-check: React Performance</td>
+            <td>🟦Cross-Check: Submit</td>
+            <td>08.06.2026</td>
+            <td>16.06.2026</td>
+            <td rowspan="2"></td>
+            <td rowspan="2"></td>
+          </tr>
+          <tr>
+            <td>🟩Cross-Check: Review</td>
+            <td>16.06.2026</td>
+            <td>19.06.2026</td>
+          </tr>
+          <tr>
+            <td>React test 8. React SSR</td>
+            <td>🟨Test</td>
+            <td>15.06.2026</td>
+            <td>23.06.2026</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td rowspan="2">React task 8. Cross-check: Next.js. Server Side Rendering</td>
+            <td>🟦Cross-Check: Submit</td>
+            <td>15.06.2026</td>
+            <td>23.06.2026</td>
+            <td rowspan="2"></td>
+            <td rowspan="2"></td>
+          </tr>
+          <tr>
+            <td>🟩Cross-Check: Review</td>
+            <td>23.06.2026</td>
+            <td>26.06.2026</td>
+          </tr>
+          <tr>
+            <td rowspan="2">React Final task. Cross-check: Swagger/OpenAPI UI</td>
+            <td>🟦Cross-Check: Submit</td>
+            <td>22.06.2026</td>
+            <td>14.07.2026</td>
+            <td rowspan="2"></td>
+            <td rowspan="2"></td>
+          </tr>
+          <tr>
+            <td>🟩Cross-Check: Review</td>
+            <td>14.07.2026</td>
+            <td>17.07.2026</td>
+          </tr>
+          <tr>
+            <td>React. Technical React Interview</td>
+            <td>🟦Interview</td>
+            <td>23.06.2026</td>
+            <td>21.07.2026</td>
+            <td></td>
+            <td></td>
+          </tr>
+        </tbody>
+       </table>
+     </details>
     - <details open>
         <summary>RS School Stage 0 (16 March 2026 - 01 June 2026)</summary>
         <table>
             <thead>
                 <tr>
-                    <th>Task/Event</th>
-                    <th>Type</th>
-                    <th>Start Date</th>
-                    <th>End Date</th>
-                    <th>Repo</th>
-                    <th>Web</th>
+                    <th width="300">Task/Event</th>
+                    <th width="210">Type</th>
+                    <th width="100">Start Date</th>
+                    <th width="100">End Date</th>
+                    <th width="100">Repo</th>
+                    <th width="100">Web</th>
                 </tr>
             </thead>
             <tbody>
