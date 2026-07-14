@@ -106,7 +106,8 @@ catch(exception) {
     - Category C
     - Category B, Am
  - Courses
-    - RS School Stage 0 (16 March 2026 - 01 June 2026)
+    - <details open>
+        <summary>RS School Stage 0 (16 March 2026 - 01 June 2026)</summary>
         <table>
             <thead>
                 <tr>
@@ -352,7 +353,8 @@ catch(exception) {
                 </tr>
             </tbody>
         </table>
-
+    </details>
+        
 ## 8. English Language
 
 ### About English
