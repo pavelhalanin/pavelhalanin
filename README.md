@@ -87,31 +87,10 @@ catch(exception) {
 
 ## 6. Work Experience (3 year)
 
-- ZAO ATLANT (June 2024 - present) (2 year)
-    - 2nd category Software Engineer (December 2025 - present)
-    - Software Engineer (June 2024 - December 2025)
-
-- OOO DE-PA (1 year)
-    - Software Engineer (June 2023 - June 2024)
-
-## 7. Education
-
-- Tech education
-    - Brest State Technical University (4 years)
-        - September 2019 - June 2023 
-        - Diploma of Higher Education with Honors
-        - Qualification: "Software Engineer"
-        - Specialty: "Information Technology Software"
-- Driving licence
-    - Category C
-    - Category B, Am
-
-### Work experience
-
 <table>
     <tr>
         <td width="100"></td>
-        <td></td>
+        <td width="800"></td>
     </tr>
     <tr>
         <td rowspan="3">
@@ -125,8 +104,8 @@ catch(exception) {
     </tr>
     <tr>
         <td>
-            <div><b>Software Enginer 2nd category</b></div>
-            <div>December 2025 - current time</div>
+            <div><b>2nd category Software Engineer</b></div>
+            <div>December 2025 - present</div>
         </td>
     </tr>
     <tr>
@@ -148,17 +127,88 @@ catch(exception) {
     <tr>
         <td>
             <div><b>Software Enginer</b></div>
-            <div>June 2024 - December 2025</div>
+            <div>June 2023 - December 2024</div>
         </td>
     </tr>
 </table>
+
+## 7. Education
+
+- Driving licence
+    - Category C
+    - Category B, Am
+
+<table>
+    <tr>
+        <td>Class C</td>
+        <td>🚚</td>
+    </tr>
+    <tr>
+        <td>Class B</td>
+        <td>🚗</td>
+    </tr>
+    <tr>
+        <td>Class Am</td>
+        <td>🛵</td>
+    </tr>
+</table>
+
+### Education
+
+<table>
+    <tr>
+        <td width="100"></td>
+        <td width="800"></td>
+    </tr>
+    <tr>
+        <td rowspan="2">
+            <img src="./assets/education/brgtu.jpg" alt="">
+        </td>
+        <td>
+            <div><b>Brest State Technical University</b></div>
+            <div>September 2019 - June 2023 (4 year)</div>
+            <div>Brest</div>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <div>Diploma of Higher Education with Honors</div>
+            <div>
+                Specialty: Information Technology Software (Программное обеспечение информационных технологий)
+            </div>
+            <div>
+                Qualification: Software Engineer (инженер-программист)
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <td rowspan="4">
+            <img src="./assets/education/lyceum.jpg" alt="">
+        </td>
+        <td>
+            <div>Lyceum No 1 named after Puskin in the city of Brest</div>
+            <div>June 2019 - June 2019 (3 year)</div>
+            <div>Brest</div>
+        </td>
+    </tr>
+    <tr>
+        <td>2018 - 2019, Информационно-технологическое направление</td>
+    </tr>
+    <tr>
+        <td>2017 - 2018, Информационно-технологическое направление</td>
+    </tr>
+    <tr>
+        <td>2016 - 2017, Физико математическое направление</td>
+    </tr>
+</table>
+
 
 ### Courses
 
 <table>
     <tr>
         <td width="100"></td>
-        <td></td>
+        <td width="800"></td>
     </tr>
     <tr>
         <td rowspan="4">
@@ -665,54 +715,6 @@ catch(exception) {
     </tr>
 </table>
 
-### Education
-
-<table>
-    <tr>
-        <td width="100"></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td rowspan="2">
-            <img src="./assets/education/brgtu.jpg" alt="">
-        </td>
-        <td>
-            <div><b>Brest State Technical University</b></div>
-            <div>September 2019 - June 2024 (4 year)</div>
-            <div>Brest</div>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <div>
-                Specialty: Information Technology Software (Программное обеспечение информационных технологий)
-            </div>
-            <div>
-                Qualification: Software Engineer (инженер-программист)
-            </div>
-        </td>
-    </tr>
-    <tr>
-        <td rowspan="4">
-            <img src="./assets/education/lyceum.jpg" alt="">
-        </td>
-        <td>
-            <div>Lyceum No 1 named after Puskin in the city of Brest</div>
-            <div>June 2019 - June 2019 (3 year)</div>
-            <div>Brest</div>
-        </td>
-    </tr>
-    <tr>
-        <td>2018 - 2019, Информационно-технологическое направление</td>
-    </tr>
-    <tr>
-        <td>2017 - 2018, Информационно-технологическое направление</td>
-    </tr>
-    <tr>
-        <td>2016 - 2017, Физико математическое направление</td>
-    </tr>
-</table>
- 
 ## 8. English Language
 
 ### About English
