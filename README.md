@@ -134,10 +134,6 @@ catch(exception) {
 
 ## 7. Education
 
-- Driving licence
-    - Category C
-    - Category B, Am
-
 <table>
     <tr>
         <td>Class C</td>
