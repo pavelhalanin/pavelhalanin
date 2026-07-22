@@ -30,15 +30,16 @@ Software Engineer with 3 years of commercial experience, graduated with honors i
 
 - programming languages: JavaScript, PHP8, SQL, TypeScript
 - frameworks: React, ReactNative, NextJS, NestJS
+- state manager: Zustand
 - methodologies: ARIS, UML
-- version control systems: Git, SVN
+- version control systems: Git, SVN, GitHub, GitLab
 - IDE: VS Code
 - Package Managers: npm, yarn
 - Debugging Tools: Chrome DevTools
 - Operating Systems: Windows, Linux
 - API Testing: Postman, SwaggerUI
 - Markup & Documentation Languages: HTML5, CSS3, MarkDown, LaTeX, JSON
-- Databases: MySQL, Oracle, SQLite, DBF
+- Databases: MySQL, Oracle, SQLite, DBF, Supabase
 - Containers & Virtualization: Docker, docker-compose
 - Design: Figma, Photopea, Adobe Photoshop
 - Hosting & Server Management: cPanel, ISPmanager, Hoster.by, Login.by
