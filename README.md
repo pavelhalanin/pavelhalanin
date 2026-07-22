@@ -59,32 +59,6 @@ function getCardId(value) {
 }
 ```
 
-```js
-class Helper {
-    static async fetchCompanyData_byUnp(unp) {
-        const URL_ = `https://grp.nalog.gov.by/api/grp-public/data?unp=${unp}`;
-        const RESPONSE = await fetch(URL_);
-
-        const HTTP_STATUS = RESPONSE.status;
-        if (HTTP_STATUS !== 200) {
-            const TEXT = await RESPONSE.text();
-            throw new Error(`HttpStatus ${HTTP_STATUS}\n${TEXT}`);
-        }
-
-        const DATA = await RESPONSE.json();
-        return DATA;
-    }
-}
-
-try {
-    const DATA = Helper.fetchCompanyData_byUnp(100582333);
-    console.log(DATA);
-}
-catch(exception) {
-    console.error(exception);
-}
-```
-
 ## 6. Work Experience (3 year)
 
 <table>
