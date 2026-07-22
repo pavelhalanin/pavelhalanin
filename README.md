@@ -226,6 +226,16 @@ catch(exception) {
             <div>[Stage 3] React 2026 Q2</div>
             <div>27.04.2026 - 21.07.2026</div>
             <div>
+                <a href="https://app.rs.school/certificate/sbwv7urx">
+                    Certificate
+                </a>
+            </div>
+            <div>
+                <a href="https://app.rs.school/certificate/sbwv7urx">
+                    <img src="https://media.licdn.com/dms/image/v2/D4E2DAQGvoy4k5UTEXw/profile-treasury-document-cover-images_480/B4EZ.Ig.5jIABA-/0/1784701776366?e=1785308400&v=beta&t=st7fOmUfz3NeHTTLWg3tbAFHnWujmRqxAoHteQ9NuuY" >
+                </a>
+            </div>
+            <div>
                 <details>
                     <summary>RS School Stage 3 (27 April 2026 - 17 July 2026)</summary>
                     <table>
