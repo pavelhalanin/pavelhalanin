@@ -181,7 +181,7 @@ function getCardId(value) {
             </div>
             <div>
                 <a target="_blank" href="https://app.rs.school/certificate/sbwv7urx">
-                    <img src="https://media.licdn.com/dms/image/v2/D4E2DAQGvoy4k5UTEXw/profile-treasury-document-cover-images_480/B4EZ.Ig.5jIABA-/0/1784701776366?e=1785308400&v=beta&t=st7fOmUfz3NeHTTLWg3tbAFHnWujmRqxAoHteQ9NuuY" >
+                    <img src="./upload/sbwv7urx.png" >
                 </a>
             </div>
         </td>
