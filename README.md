@@ -2,7 +2,20 @@
 
 Pavel Halanin
 
-<img src="https://pavelhalanin.github.io/RSSchool_2026Q1_Stage0__CV/assets/favicon/favicon_144.png" />
+<table>
+    <tr>
+        <td>
+            <img src="https://pavelhalanin.github.io/RSSchool_2026Q1_Stage0__CV/assets/favicon/favicon_144.png" />
+        </td>
+        <td>
+            <a target="_blank" href="https://app.rs.school/certificate/sbwv7urx">
+                <img width="400" src="./upload/sbwv7urx.png" >
+            </a>
+        </td>
+    </tr>
+</table>
+
+
 
 Middle Software Engineer
 
@@ -19,7 +32,7 @@ Work Experience 3 year
 - **LinkedIn**: [pavelhalanin](https://www.linkedin.com/in/pavelhalanin/)
 - **CodeWars**: [rsschool](https://www.codewars.com/users/rsschool_7f3e087f4b5570c1)
 - **WebSite**:
-    - [Shelter](https://pavelhalanin.github.io/RSSchool_2026Q2_Stage0.5__shelter/shelter/) 
+    - [Shelter](https://pavelhalanin.github.io/RSSchool_2026Q2_Stage0.5__shelter/) 
     - [ChristmasShop](https://pavelhalanin.github.io/RSSchool_2026Q1_Stage0__ChristmasShop/) 
 
 ## 3. Brief Self-Introduction
