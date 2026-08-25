@@ -19,8 +19,8 @@ Work Experience 3 year
 - **LinkedIn**: [pavelhalanin](https://www.linkedin.com/in/pavelhalanin/)
 - **CodeWars**: [rsschool](https://www.codewars.com/users/rsschool_7f3e087f4b5570c1)
 - **WebSite**:
-    - [OOO DE-PA](https://www.de-pa.by/)
-    - [Kung Consulting](https://www.kungconsulting.com/)
+    - [Shelter](https://pavelhalanin.github.io/RSSchool_2026Q2_Stage0.5__shelter/shelter/) 
+    - [ChristmasShop](https://pavelhalanin.github.io/RSSchool_2026Q1_Stage0__ChristmasShop/) 
 
 ## 3. Brief Self-Introduction
 
