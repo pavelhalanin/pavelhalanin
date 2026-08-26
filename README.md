@@ -34,25 +34,25 @@ Work Experience 3 year
 <table>
     <tr>
         <td align="center">
-            <a href="https://pavelhalanin.github.io/RSSchool_2026Q2_Stage0.5__shelter/">
+            <a href="https://pavelhalanin.github.io/RSSchool_2026Q1_Stage0__ChristmasShop/">
                 Christmas shop
             </a>
         </td>
         <td align="center">
-            <a href="https://pavelhalanin.github.io/RSSchool_2026Q1_Stage0__ChristmasShop/">
+            <a href="https://pavelhalanin.github.io/RSSchool_2026Q2_Stage0.5__shelter/">
                 Shelter
             </a>
         </td>
     </tr>
     <tr>
         <td>
-            <a href="https://pavelhalanin.github.io/RSSchool_2026Q2_Stage0.5__shelter/">
-                <img src="upload/Shelter.jpg">
+            <a href="https://pavelhalanin.github.io/RSSchool_2026Q1_Stage0__ChristmasShop/">
+                <img src="upload/Christmas-shop.jpg">
             </a>
         </td>
         <td>
-            <a href="https://pavelhalanin.github.io/RSSchool_2026Q1_Stage0__ChristmasShop/">
-                <img src="upload/Christmas-shop.jpg">
+            <a href="https://pavelhalanin.github.io/RSSchool_2026Q2_Stage0.5__shelter/">
+                <img src="upload/Shelter.jpg">
             </a>
         </td>
     </tr>
