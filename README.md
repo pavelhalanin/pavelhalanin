@@ -31,9 +31,33 @@ Work Experience 3 year
 - **GitHub**: [pavelhalanin](https://github.com/pavelhalanin)
 - **LinkedIn**: [pavelhalanin](https://www.linkedin.com/in/pavelhalanin/)
 - **CodeWars**: [rsschool](https://www.codewars.com/users/rsschool_7f3e087f4b5570c1)
-- **WebSite**:
-    - [Shelter](https://pavelhalanin.github.io/RSSchool_2026Q2_Stage0.5__shelter/) 
-    - [ChristmasShop](https://pavelhalanin.github.io/RSSchool_2026Q1_Stage0__ChristmasShop/) 
+<table>
+    <tr>
+        <td align="center">
+            <a href="https://pavelhalanin.github.io/RSSchool_2026Q2_Stage0.5__shelter/">
+                Christmas shop
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://pavelhalanin.github.io/RSSchool_2026Q1_Stage0__ChristmasShop/">
+                Shelter
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://pavelhalanin.github.io/RSSchool_2026Q2_Stage0.5__shelter/">
+                <img src="upload/Shelter.jpg">
+            </a>
+        </td>
+        <td>
+            <a href="https://pavelhalanin.github.io/RSSchool_2026Q1_Stage0__ChristmasShop/">
+                <img src="upload/Christmas-shop.jpg">
+            </a>
+        </td>
+    </tr>
+</table>
+
 
 ## 3. Brief Self-Introduction
 
