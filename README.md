@@ -4,12 +4,19 @@ Pavel Halanin
 
 <table>
     <tr>
-        <td>
+        <td rowspan="2">
             <img src="https://pavelhalanin.github.io/RSSchool_2026Q1_Stage0__CV/assets/favicon/favicon_144.png" />
         </td>
         <td>
             <a target="_blank" href="https://app.rs.school/certificate/sbwv7urx">
-                <img width="400" src="./upload/sbwv7urx.png" >
+                <img width="400" src="./upload/sbwv7urx.jpg" >
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a target="_blank" href="https://app.rs.school/certificate/zqp3ydoz">
+                <img width="400" src="./upload/zqp3ydoz.jpg" >
             </a>
         </td>
     </tr>
