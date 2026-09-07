@@ -9,6 +9,7 @@ Pavel Halanin
         </td>
         <td>
             <a target="_blank" href="https://app.rs.school/certificate/sbwv7urx">
+                <div>Stage 3 (2026Q2)</div>
                 <img width="400" src="./upload/sbwv7urx.jpg" >
             </a>
         </td>
@@ -16,6 +17,7 @@ Pavel Halanin
     <tr>
         <td>
             <a target="_blank" href="https://app.rs.school/certificate/zqp3ydoz">
+                <div>Stage 0.5 (2026Q2)</div>
                 <img width="400" src="./upload/zqp3ydoz.jpg" >
             </a>
         </td>
