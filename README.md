@@ -9,14 +9,16 @@ Pavel Halanin
         </td>
         <td>
             <a target="_blank" href="https://app.rs.school/certificate/sbwv7urx">
-                <img width="400" src="./upload/sbwv7urx.jpg" >
+                <div>Stage 3 (2026Q2)</div>
+                <img width="300" src="./upload/sbwv7urx.jpg" >
             </a>
         </td>
     </tr>
     <tr>
         <td>
             <a target="_blank" href="https://app.rs.school/certificate/zqp3ydoz">
-                <img width="400" src="./upload/zqp3ydoz.jpg" >
+                <div>Stage 0.5 (2026Q2)</div>
+                <img width="300" src="./upload/zqp3ydoz.jpg" >
             </a>
         </td>
     </tr>
@@ -212,6 +214,11 @@ function getCardId(value) {
         <td>
             <div><b>[Stage 0.5] JS/FE Summer bootcamp 2026Q2</b></div>
             <div>01.06.2026 - 03.09.2026</div>
+            <div>
+                <a target="_blank" href="https://app.rs.school/certificate/zqp3ydoz">
+                    Certificate
+                </a>
+            </div>
         </td>
     </tr>
     <tr>
@@ -221,11 +228,6 @@ function getCardId(value) {
             <div>
                 <a target="_blank" href="https://app.rs.school/certificate/sbwv7urx">
                     Certificate
-                </a>
-            </div>
-            <div>
-                <a target="_blank" href="https://app.rs.school/certificate/sbwv7urx">
-                    <img src="./upload/sbwv7urx.png" >
                 </a>
             </div>
         </td>
