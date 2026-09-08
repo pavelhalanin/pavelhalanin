@@ -5,7 +5,7 @@ Pavel Halanin
 <table>
     <tr>
         <td rowspan="2">
-            <img src="https://pavelhalanin.github.io/RSSchool_2026Q1_Stage0__CV/assets/favicon/favicon_144.png" />
+            <img src="./assets/name/favicon_144.png" />
         </td>
         <td>
             <a target="_blank" href="https://app.rs.school/certificate/sbwv7urx">
