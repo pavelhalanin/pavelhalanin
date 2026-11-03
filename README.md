@@ -43,7 +43,7 @@ Pavel Halanin
 
 Middle Software Engineer
 
-Work Experience 3 year
+Work Experience 3.5 year
 
 (JavaScript, React, React Native, Next.js, Node.js, NestJS, PHP, REST API, SwaggerUI, Docker, Git)
 
