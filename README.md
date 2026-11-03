@@ -121,7 +121,7 @@ function getCardId(value) {
 }
 ```
 
-## 6. Work Experience (3 year)
+## 6. Work Experience (3.5 year)
 
 <table>
     <tr>
@@ -129,7 +129,7 @@ function getCardId(value) {
         <td width="800"></td>
     </tr>
     <tr>
-        <th colspan="2" align="left">ZAO ATLANT, Minsk (2 year 2 month)</th>
+        <th colspan="2" align="left">ZAO ATLANT, Minsk (2.5 year)</th>
     </tr>
     <tr>
         <td rowspan="2">
