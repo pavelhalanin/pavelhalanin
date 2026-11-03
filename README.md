@@ -4,22 +4,37 @@ Pavel Halanin
 
 <table>
     <tr>
-        <td rowspan="2">
+        <td rowspan="5">
             <img src="./assets/name/favicon_144.png" />
         </td>
         <td>
+            <div>Courses</div>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <div>1) JS/FE Pre-School 2026 Q1 (stage 0)</div>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <div>2) React 2026 Q2 (stage 3)</div>
             <a target="_blank" href="https://app.rs.school/certificate/sbwv7urx">
-                <div>Stage 3 (2026Q2)</div>
                 <img width="300" src="./upload/sbwv7urx.jpg" >
             </a>
         </td>
     </tr>
     <tr>
         <td>
+            <div>3) JS/FE Summer bootcamp 2026Q2 (stage 0.5)</div>
             <a target="_blank" href="https://app.rs.school/certificate/zqp3ydoz">
-                <div>Stage 0.5 (2026Q2)</div>
                 <img width="300" src="./upload/zqp3ydoz.jpg" >
             </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <div>4) Full-Stack JavaScript 2026 Q3 (stage 1)</div>
         </td>
     </tr>
 </table>
